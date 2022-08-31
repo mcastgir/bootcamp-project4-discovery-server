@@ -3,7 +3,6 @@ spring:
     name: discovery-server
   cloud:
     config:
-      #uri: http://localhost:8084
-      uri: https://bootcamp-config-server.azurewebsites.net
+      uri: http://localhost:8084
       username: root
       password: rHQPJeecA3YTdVkX
