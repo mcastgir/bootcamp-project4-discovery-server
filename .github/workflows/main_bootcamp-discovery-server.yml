@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'bootcamp-discovery-server'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C2B67D932194BCC86AAD7263FFABA73 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73B0EF43BFFB4D7B9121724F576C5B18 }}
           package: '*.jar'
